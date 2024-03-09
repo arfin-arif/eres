@@ -1,0 +1,388 @@
+.Contact-heading-div {
+  background: linear-gradient(90deg,
+      #f8f5f0 4.06%,
+      rgba(248, 245, 240, 0) 100%);
+  height: 164px !important;
+  width: 100%;
+}
+
+.Contact-heading-div h1 {
+  color: #786546;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  padding: 50px 0 0 0;
+}
+
+.kokart-entrance-section h1 {
+  color: #69573a;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-top: 30px;
+}
+
+.kokart-entrance-section p {
+  color: #80735f;
+  font-size: 15px;
+  width: 450px;
+  margin-bottom: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.Service-div h1 {
+  color: #69573a;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.Service-div p {
+  color: #786546;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%;
+  width: 161px;
+}
+.img-box {
+  width: 525px;
+  text-align: center;
+}
+.chat-div {
+  border-radius: 16px;
+  background: #fbf9f6;
+  margin-top: 20px;
+  padding: 30px;
+}
+
+.chat-div>div>p {
+  color: #786546;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  width: 298px;
+}
+
+.chat-div>.div {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 20px;
+}
+
+.consul-btn {
+  border-radius: 8px;
+  border: 1px solid #e7d4b5;
+  background: #f8f5f0 !important;
+  color: #b0905b !important;
+  font-size: 16px !important;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  padding: 16px 20px;
+  width: 176px;
+  margin-bottom: 25px;
+}
+
+.button-div {
+  display: flex;
+  justify-content: center;
+}
+
+.Form-div {
+  border-radius: 16px;
+  border: 1px solid #e7d4b5;
+  background: #fff;
+  width: 540px;
+  padding: 40px;
+  margin-top: -80px;
+}
+
+.Form-div h1 {
+  color: #69573a;
+
+  text-align: center;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 36px;
+}
+
+.Form-div p {
+  color: #80735f;
+  text-align: center;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.Form-div span {
+  color: #80735f;
+
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+}
+
+.form-check-label {
+  color: #69573a;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.form-control {
+  border-radius: 10px !important;
+  border: 1px solid #f5ebd9 !important;
+  padding: 21px 16px !important;
+  height: 54px;
+}
+
+.flag-dropdown {
+  background: white !important;
+  border-bottom: 1px solid #f5ebd9 !important;
+  border-top: 1px solid #f5ebd9 !important;
+  border-right: none !important;
+  border-top-left-radius: 10px !important;
+  border-bottom-left-radius: 10px !important;
+  border-left: 1px solid #f5ebd9 !important;
+}
+
+.form-control::placeholder {
+  color: #786546 !important;
+
+  font-size: 18px !important;
+  font-style: normal;
+  font-weight: 400 !important;
+  line-height: normal !important;
+}
+
+.phone-input {
+  height: 54px !important;
+}
+
+.form-check-input {
+  border-radius: 3px !important;
+  border: 1px solid #b0905b !important;
+}
+
+.btn-div Button {
+  border-radius: 8px !important;
+  background: #b0905b !important;
+  border: none;
+  padding: 5px 26px;
+  justify-content: center;
+  align-items: center;
+  font-family: inter !important;
+  margin-top: 10px !important;
+}
+
+.form-check-input:checked {
+  background-color: #b0905b !important;
+  border-color: #b0905b !important;
+}
+
+.under-text {
+  color: #b0905b;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-decoration-line: underline;
+}
+
+.react-tel-input .form-control {
+  padding-left: 54px !important;
+}
+
+.flag-dropdown.open {
+  margin-top: 26px;
+  background: none !important;
+  border: none !important;
+}
+
+.react-tel-input .selected-flag {
+  padding: 0 0 0 20px !important;
+}
+
+@media only screen and (max-width: 546px) {
+  .Form-div {
+    width: auto !important;
+    margin-top: 30px !important;
+    border: none !important;
+    padding: 0;
+  }
+
+  .div {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .div p {
+    text-align: center;
+  }
+
+  .kokart-entrance-section p {
+    width: auto !important;
+    text-align: center;
+    margin: 0 auto !important;
+  }
+
+  .kokart-entrance-section h1 {
+    text-align: center;
+    margin-top: 60px;
+    width: auto !important;
+  }
+
+  .map-image {
+    width: auto !important;
+  }
+
+  .chat-div img {
+    margin-bottom: 20px;
+  }
+
+  .Service-div p {
+    width: auto !important;
+    text-align: center;
+  }
+
+  .Service-div {
+    margin-top: 40px;
+  }
+
+  .Service-div h1 {
+    margin-top: 20px;
+
+    width: auto !important;
+    text-align: center !important;
+  }
+
+  .service-img-div {
+    display: flex;
+    justify-content: center;
+  }
+
+  .Contact-heading-div h1 {
+    text-align: center !important;
+    padding: 18px 0 !important;
+  }
+
+  .Contact-heading-div {
+    height: 70px !important;
+  }
+
+  .Contact-heading-div h1 {
+    font-size: 28px !important;
+  }
+
+  .btn-div>Button {
+    width: 100% !important;
+  }
+
+  .Form-div h1 {
+    font-size: 18px !important;
+    line-height: normal !important;
+    width: 264px !important;
+    margin: 0 auto 16px !important;
+  }
+
+  .form-control {
+    padding: 16px 21px !important;
+    color: #786546;
+    font-size: 18px !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    line-height: normal !important;
+  }
+
+  .Form-div p {
+    margin-bottom: 30px;
+  }
+
+  .flag-dropdown {}
+
+  .react-tel-input .form-control {
+    padding-left: 54px !important;
+    color: #786546;
+    font-size: 18px !important;
+    font-weight: 400 !important;
+  }
+}
+
+@media only screen and (min-width: 767px) and (max-width: 990px) {
+  .Contact-heading-div h1 {
+    text-align: center !important;
+  }
+
+  .kokart-entrance-section {
+    text-align: center !important;
+  }
+
+  .kokart-entrance-section p {
+    width: auto;
+  }
+
+  .Service-div h1 {
+    text-align: center !important;
+    width: auto !important;
+  }
+
+  .service-img-div {
+    display: flex;
+    justify-content: center;
+  }
+
+  .Service-div p {
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  .div {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+  }
+
+  .Form-div {
+    margin: 0 auto !important;
+  }
+}
+
+@media only screen and (min-width: 546px) and (max-width: 767px) {
+  .Form-div {
+    margin-top: 50px;
+    width: auto;
+  }
+
+  .Contact-heading-div h1 {
+    text-align: center;
+  }
+
+  .service-img-div {
+    display: flex;
+    justify-content: center;
+  }
+
+  .Service-div h1 {
+    text-align: center;
+  }
+
+  .Service-div p {
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+  }
+}

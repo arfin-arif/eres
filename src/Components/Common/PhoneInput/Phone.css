@@ -1,0 +1,28 @@
+/* Phone.css */
+
+/* Style the PhoneInput component */
+.phone-input {
+  border-radius: 10px !important;
+  border: 1px solid #f5ebd9 !important;
+  width: 100% !important;
+}
+
+/* Style the dropdown arrow */
+.phone-input .arrow {
+  background-color: #333 !important;
+  color: #fff !important;
+}
+/* .selected-flag {
+  border: none !important;
+} */
+.phone-input::placeholder {
+  color: #786546 !important;
+
+  font-size: 18px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: normal !important;
+}
+.dropdown{
+    border: none !important;
+}

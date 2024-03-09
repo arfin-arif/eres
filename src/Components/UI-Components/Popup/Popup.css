@@ -1,0 +1,91 @@
+.Pop-Main {
+  width: 730px;
+  height: 400px;
+  margin: 0 auto;
+  border-radius: 10px;
+  background: rgba(
+    255,
+    255,
+    255,
+    0.8
+  ); /* Use rgba for a semi-transparent background */
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1000; /* Set a high z-index to ensure it's on top of other elements */
+  backdrop-filter: blur(500px); /* Adjust the blur value as needed */
+  box-shadow: 3px 7px 399px 200px rgba(206, 144, 33, 0.75);
+  -webkit-box-shadow: 3px 7px 399px 200px rgba(206, 144, 33, 0.75);
+  -moz-box-shadow: 3px 7px 399px 200px rgba(206, 144, 33, 0.75);
+}
+
+/* Add this rule to ensure the backdrop filter works on older browsers */
+.Pop-Main::before {
+  content: "";
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  /* Adjust the background color and transparency as needed */
+  z-index: -1;
+  filter: blur(10px); /* Adjust the blur value as needed */
+}
+
+.right-div img {
+  border-radius: 16px;
+  background: #e7d4b5;
+  border: 10px solid #e7d4b5;
+}
+.curser {
+  cursor: pointer !important;
+}
+.right-div {
+  padding: 50px 0 125px 46px;
+}
+.Mobile-div {
+  /* margin-top: ., |px; */
+}
+.right-div p {
+  color: #69573a;
+  text-align: center;
+  font-size: 14px;
+  width: 206px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px; /* 128.571% */
+  margin-top: 20px;
+}
+.Mobile-div img {
+  width: 439.356px;
+  height: 366px;
+  margin-top: 8px;
+}
+.cross-icon {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 10px !important;
+}
+@media only screen and (min-width: 450px) and (max-width: 768px) {
+  .Mobile-div img {
+    width: 200px !important;
+    height: 200px !important;
+    margin-top: 24px !important;
+  }
+
+  .right-div img {
+    width: 100px !important;
+    height: 100px !important;
+  }
+  .Pop-Main {
+    width: 400px !important;
+    height: 250px !important;
+  }
+}
+@media only screen and (max-width: 576px) {
+  .Pop-Main {
+    display: none !important;
+  }
+}

@@ -1,0 +1,53 @@
+.block1 {
+  line-height: 27px;
+}
+
+.home-bannar {
+  padding: 72px 0 116px;
+}
+
+.home-bannar h1 {
+  color: #69573a;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-align: start;
+  margin-bottom: 30px;
+}
+
+.home-bannar p {
+  color: #80735f !important;
+  margin-bottom: 40px;
+}
+
+.home-bannar h5 {
+  font-size: 36px;
+  font-weight: 600;
+  color: #b0905b;
+  line-height: 61px;
+  text-align: center;
+  margin: 0;
+}
+
+.home-bannar span {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+  text-align: center;
+  color: #80735f;
+}
+
+.border-LR {
+  border-left: 2px solid #ebebea;
+  border-right: 2px solid #ebebea;
+  height: 94px;
+  text-align: center;
+}
+
+@media only screen and (min-width: 481px) and (max-width: 769px) {
+  .para {
+    width: auto !important;
+  }
+}
+

@@ -1,0 +1,49 @@
+.Partner-div {
+  background: #fff;
+  padding: 90px 0 50px;
+}
+
+.title-tex {
+  color: #786546;
+  font-size: 36px;
+  text-align: center;
+  font-style: normal;
+  font-weight: 600;
+  margin-bottom: 16px;
+  line-height: normal;
+}
+
+.patner-p {
+  width: 722px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.para {
+  color: #69573a;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+.Partner-cards {
+  border-radius: 16px;
+  border: 1px solid #f8ebd6;
+  background: #fff;
+  width: 350px;
+  height: 263px;
+  padding: 40px 24px;
+  margin-top: 40px;
+}
+.Partner-cards img {
+  margin-bottom: 20px;
+}
+.flex-wrap-div {
+  margin: 0 5px 0 5px;
+  display: flex !important;
+  flex-wrap: wrap !important;
+  justify-content: center;
+  /* flex-direction: row !important; */
+  gap: 20px !important;
+}

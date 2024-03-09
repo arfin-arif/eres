@@ -1,0 +1,9 @@
+[dir='rtl'] .logo-desktop  {
+   margin-bottom: 25px;
+  }
+[dir='ltr'] .navbar  {
+  height: 135px;
+  }
+[dir='ltr'] .logo-desktop  {
+   margin-bottom: -30px;
+  }

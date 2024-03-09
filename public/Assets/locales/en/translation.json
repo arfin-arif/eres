@@ -1,0 +1,318 @@
+{
+  "app_title": ">ERES ",
+  "download_prompt": "Click & scan with your phone to download this app.",
+  "home":{
+    "banner":{
+            "title":"ERES Story",
+            "paragraph1":"Established in 2018, ERES International Trade set off with the mission to connect the MENA region with Korea. In addition, we wanted to bring superior quality products to this region seamlessly through our eCommerce platform KoCart.",
+            "paragraph2":"We operate in 22 countries and our primary focus is on the main 6 Gulf Cooperation Council (GCC) countries. At the same time, we help to source over 200 Korean brands to bring to this market.",
+            "operate_countries":"Operate countries",
+            "primary_focus":" Primary focus (GCC)",
+            "countries":"countries.",
+            "korean_brands":"Korean brands"
+    },
+    "core_values":{
+      "title":"Our Core Values",
+      "subtitle":" We help establish a logistically sound connection between Korea and",
+      "subtitle_end":"the MENA region, focusing on a B2C business model.",
+      "cardArray": [
+        {
+          "para": "Helping to expand markets for existing Korean companies.",
+          "image": "Globe.svg"
+        },
+        {
+          "para": "Build with the idea of long-lasting business partnerships.",
+          "image": "hands.svg"
+        },
+        {
+          "para": "Ensure that both sides of the business relationship are economically viable and sustainable.",
+          "image": "Recycle.svg"
+        },
+        {
+          "para": "Build a new channel to help support Korean startups and new business ideas.",
+          "image": "buld.svg"
+        }
+      ]
+      
+    },
+    "partner":{
+      "title":"Why Partner with us",
+      "sub":" We see a huge opportunity with expanding business relations between Korea and the MENA region. Yet, at the same time, from marketing and exposure to the distance between the two areas, there are a lot of moving parts that need to be handled. We feel as your focused expert; we’re able to be the missing connection link between both worlds.",
+      "PartnerArray": [
+        {
+          "image": "doller.svg",
+          "para": "We help to bring in-demand products from consumer electronics to our world-recognized cosmetics."
+        },
+        {
+          "image": "shipping.svg",
+          "para": "We eliminate the hassle that comes with international logistics as we’ve already established cost-effective and efficient routes."
+        },
+        {
+          "image": "message.svg",
+          "para": "We provide 24/7 support in regional languages as well as English to help with any issues, questions, or concerns that may come."
+        },
+        {
+          "image": "arrow.svg",
+          "para": "We consistently review our partnerships and make sure that we help to achieve all KPIs and other business-related targets."
+        },
+        {
+          "image": "halal.svg",
+          "para": "We work to comply with all local laws within the MENA region to ensure that any products we represent have the local required standards."
+        }
+      ]
+      
+    },
+    "ko_cart":{
+      "title":"Download KoCart App",
+      "sub":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected hum our, or random ised words which don’t look even slightly believable ere are many variations of passages."
+
+    },
+    "diwan":{
+      "title":"Download Diwan App",
+      "sub":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected hum our, or random ised words which don’t look even slightly believable ere are many variations of passages."
+    }
+    },
+  "product":{
+          "banner_one":{
+            "title":"KoCart App",
+            "sub":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humor, or randomized words which don’t look even slightly believable. There are many variations of passages.",
+            "features": [
+              {
+                "icon": "Assets/ProductBannar/Group%206151.svg",
+                "text": "Advanced Search options"
+              },
+              {
+                "icon": "Assets/ProductBannar/Group%206152.svg",
+                "text": "Compare Products Feature"
+              },
+              {
+                "icon": "Assets/ProductBannar/Group%206153.svg",
+                "text": "Favorite or save for later"
+              },
+              {
+                "icon": "Assets/ProductBannar/Group%206154.svg",
+                "text": "Personalized product recommendation"
+              }
+            ],
+            "features2": [
+              {
+                "icon": "Assets/ProductBannar/Group%206155.svg",
+                "text": "Wallet Management"
+              },
+              {
+                "icon": "Assets/ProductBannar/Group%206156.svg",
+                "text": "Product Review"
+              },
+              {
+                "icon": "Assets/ProductBannar/Group%206157.svg",
+                "text": "Push Notifications"
+              },
+              {
+                "icon": "Assets/ProductBannar/Group%206158.svg",
+                "text": "Promo Coupon Code"
+              }
+            ]
+            
+            
+          },
+          "banner_two":{
+            "title":"KoCart seller Application",  
+            "sub":"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected hum our, or random ised words which don’t look even slightly believable ere are many variations of passages.",
+            "features3": [
+              {
+                "icon": "Assets/ProductBannarSec2/Group%206119.svg",
+                "text": "Customer FAQs"
+              },
+              {
+                "icon": "Assets/ProductBannarSec2/Group%206120.svg",
+                "text": "Relatable Product List"
+              },
+              {
+                "icon": "Assets/ProductBannarSec2/Group%206121.svg",
+                "text": "Multi-Languages Themes"
+              },
+              {
+                "icon": "Assets/ProductBannarSec2/Group%206122.svg",
+                "text": "Maintenance Mode"
+              },
+              {
+                "icon": "Assets/ProductBannarSec2/Group%206123.svg",
+                "text": "Digital Products"
+              }
+            ],
+                      
+            "features4": [
+              {
+                "icon": "Assets/ProductBannarSec2/Group%206124.svg",
+                "text": "Tags and Filters"
+              },
+              {
+                "icon": "Assets/ProductBannarSec2/Group%206125.svg",
+                "text": "Invoices"
+              },
+              {
+                "icon": "Assets/ProductBannarSec2/Group%206126.svg",
+                "text": "Area-wise Delivery Charges"
+              },
+              {
+                "icon": "Assets/ProductBannarSec2/Group%206127.svg",
+                "text": "Support Tickets System"
+              }
+            ]
+          },
+          "banner_three":{
+            "title":"About the Diwan applications",
+            "sub":"To help provide the appropriate exposure to the Korean culture, the Diwan application helps to bridge the gap while at the same time integrating with the KoCart application. This helps to engage target demographics and work to convert this engaged audience into customers that continuously purchase items from our KoCart stores.",
+            "features5": [
+              {
+                "icon": "Assets/Group 6045.svg",
+                "text": "A safe environment to engage casually with like-minded individuals."
+              },
+              {
+                "icon": "Assets/Group 6045.svg",
+                "text": "Access to VOD for Korean-based content."
+              },
+              {
+                "icon": "Assets/Group 6045.svg",
+                "text": "A place to share one’s own content and grow their own presence."
+              }
+            ]            
+          },
+          "banner_four":{
+            "title":"DIWAN Application",
+            "sub":" DIWAN application membership",
+            "p":"As you start to engage with the platform and make purchases through KoCart, you can earn points with the DIWAN membership program that is also interchangeable with the KoCart app.",
+            "contentItems" : [
+              "Use points on either platform to redeem for content or for purchases",
+              "Multi–tiered reward program with additional benefits at each new tier."
+            ],
+            "features6": [
+              {
+                "icon": "Assets/ProductBannarSec4/Group%206107.svg",
+                "text": "Stream a video"
+              },
+              {
+                "icon": "Assets/ProductBannarSec4/Group%206108.svg",
+                "text": "Group chat message"
+              },
+              {
+                "icon": "Assets/ProductBannarSec4/Group%206109.svg",
+                "text": "Paid Events"
+              },
+              {
+                "icon": "Assets/ProductBannarSec4/Group%206110.svg",
+                "text": "Membership"
+              }
+            ],
+            "features7": [
+              {
+                "icon": "Assets/ProductBannarSec4/Group%206111.svg",
+                "text": "Scalable Broadcast"
+              },
+              {
+                "icon": "Assets/ProductBannarSec4/Group%206112.svg",
+                "text": "Session Recording"
+              },
+              {
+                "icon": "Assets/ProductBannarSec4/Group%206113.svg",
+                "text": "Open Integration"
+              },
+              {
+                "icon": "Assets/ProductBannarSec4/Group%206114.svg",
+                "text": "All Users Chat room"
+              }
+            ]
+            
+          }
+         
+          
+    },
+  "contact":{
+        "title" : "Contact",
+        "sub":"KoCart Entrance Consulting Service",
+        "about":" Hello This is ERES Korea. We welcome sellers who want to enter the Middle Eastern market with a population of 450 million people. Enter KoCart through a simple process.",
+        "chat":" The 1:1 chat & the calls are made from 9 AM to 6 PM on weekdays",
+        "consultation":"1:1 Consultation",
+        "would_u":"Would you like to enter the Middle Eastern Market ? ",
+        "apply_now":"Apply now to become a seller! After checking with ERES’s management, an account manager, will help you setup your store.",
+        "num":"Business Registration Number",
+        "c_name":"Contact Name",
+        "phone":"Phone Number",
+        "email":"Email",
+        "label_one":"I agree to the third party consent form.",
+        "label_two":"I agree to be contacted by phone, text messaging, and emails at the provided contact information in association with my registration",
+        "View":"View",
+        "purposes":"This consent does not include calls or texts made for marketing purposes.",
+        "contact_us":"Contact us",
+        "contactArray": [
+          {
+            "img": "Cart.svg",
+            "heading": "NO.1",
+            "para": "The first Arabic e-commerce platform specialized in Korean Products."
+          },
+          {
+            "img": "shipping.svg",
+            "heading": "338",
+            "para": "Offline distribution network 3.3 billion USD 2021 Kuwait’s Co-op society"
+          },
+          {
+            "img": "hands.svg",
+            "heading": "200+",
+            "para": "Korean brands"
+          }
+        ]
+        
+
+    }
+
+    ,
+    "footer":{
+      
+      "eres":{
+        "title":"ERES",
+        "eresLinks" : [
+          {
+            "title": "Home",
+            "link": "/"
+          },
+          {
+            "title": "Product",
+            "link": "/product"
+          },
+          {
+            "title": "Contact",
+            "link": "/contact"
+          }
+        ]           
+      },
+      "product":{
+        "title":"Product",
+        "productLinks" : [
+          {
+            "title": "KoCart App",
+            "link": "/product"
+          },
+          {
+            "title": "Diwan App",
+            "link": "/product"
+          }
+        ]
+      },
+      "chat":"The 1:1 chat & the calls are made from 9 AM to 6 PM on weekdays",
+      "btn":"1:1 Consultation",
+      "disc":["Privacy Policy", "Terms & Conditions", "Cookie Policy"],
+      "privacy":"Privacy Policy",
+      "terms":"Terms & Conditions",
+      "cookie":"Cookie Policy",
+      "copyright":"© Copyright Company 2023. All rights reserved"
+    }
+
+
+
+
+
+
+
+
+
+}

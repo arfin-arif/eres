@@ -1,0 +1,47 @@
+.Diwan-Section {
+  background: #fff;
+}
+
+.diwan-image-div {
+  margin: 100px 0 100px 0;
+  /* background-image: url(../../../../../public/Assets/DiwanappImages/Polygon2.png); */
+  background-repeat: no-repeat;
+  margin-left: 50px;
+  background-position: -50% 20%;
+}
+
+button.button.btn.btn-primary {
+  background-color: transparent !important;
+  border: 1.5px solid #f8ebd6 !important;
+  font-weight: 600 !important;
+  margin-top: 10px;
+  /* font-size: px !important; */
+  color: black !important;
+  height: 60px;
+  width: 200px;
+  display: flex;
+  gap: 4px;
+  align-items: center;
+  justify-content: center;
+}
+
+.button img {
+  width: 20px;
+  height: 25px;
+  margin-right: 5px;
+}
+.Diwan-Section h2 {
+  margin-top: 150px;
+ 
+}
+@media (min-width: 867px) {
+  .Diwan-Section h2 {
+    margin-top: 150px;
+    width: 410px;
+  }
+}
+
+
+.Diwan-Section p {
+  width: 410px;
+}

@@ -1,0 +1,18 @@
+@media screen and (min-width:1260px) and (max-width:1440px) {
+    .container {
+        max-width: 1110px !important;
+    }
+
+}
+.logo-desktop {
+    height: 54px;
+    width: 164px;
+}
+.logo-mobile {
+    height: 43px;
+    width: 131px;
+}
+
+.text-sm-center{
+   text-align: center!important;
+}

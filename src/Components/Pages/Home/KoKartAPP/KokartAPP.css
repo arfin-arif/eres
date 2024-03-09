@@ -1,0 +1,44 @@
+.Kokart-container {
+  background-color: #f8f5f0;
+  background-image: url(../../../../../public/Assets/KokartImages/Polygon.svg);
+  background-repeat: no-repeat;
+  background-position: -5% 20%;
+}
+@media (min-width: 867px) {
+  .Kokart-container  h2 {
+    margin-top: 150px;
+    width: 410px;
+  }
+}
+.Kokart-container p {
+  width: 410px;
+}
+
+.btns {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.Kokart {
+  text-align: center;
+}
+
+.diwan-image-div img {
+  width: 480px;
+  height: 500px;
+}
+
+.kokart-image {
+  width: 480px;
+  height: 500px;
+  margin: 100px 0;
+}
+.kocart-title-tex {
+  color: #ecaa3f;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  margin-bottom: 16px;
+  line-height: normal;
+}

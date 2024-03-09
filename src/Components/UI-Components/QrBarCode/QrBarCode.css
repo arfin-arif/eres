@@ -1,0 +1,20 @@
+.QR-image-div {
+    margin-top: 30px;
+    display: flex;
+    gap: 14px;
+    width: 245px;
+}
+
+.QR-code {
+    width: 35px !important;
+    height: 35px !important;
+}
+
+.QR-image-div p {
+    color: #69573a;
+    font-size: 14px;
+    width: 206px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+}

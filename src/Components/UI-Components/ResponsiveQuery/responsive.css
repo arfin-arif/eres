@@ -1,0 +1,225 @@
+@media screen and (max-width: 769px) {
+  .para {
+    font-size: 15px !important;
+  }
+
+  .title-tex {
+    font-size: 28px !important;
+  }
+
+  .home-bannar h1 {
+    font-size: 32px !important;
+    margin-bottom: 16px !important;
+  }
+
+  .home-bannar h5 {
+    font-size: 26.356px !important;
+    font-weight: 600 !important;
+    line-height: 170% !important;
+  }
+
+  .home-bannar span {
+    font-weight: 400 !important;
+    line-height: 19px !important;
+  }
+
+  .home-bannar {
+    padding: 0 0 40px !important;
+  }
+
+  .Cour-div {
+    padding: 30px 0 20px !important;
+  }
+
+  .Cour-Carda-div {
+    margin: auto !important;
+    margin-bottom: 16px !important;
+  }
+
+  .Partner-div {
+    padding: 40px 0 !important;
+  }
+
+  .patner-p {
+    width: auto !important;
+    margin-bottom: 30px !important;
+  }
+
+  .Partner-cards {
+    margin: 0 0 16px !important;
+  }
+
+  .Kokart-container p {
+    width: auto !important;
+  }
+
+  .kokart-image {
+    width: 100% !important;
+    height: 374px !important;
+    margin: 0 0 30px !important;
+  }
+  .diwan-image-div img {
+    width: 100% !important;
+    height: auto !important;
+}
+  .Kokart-container {
+    padding: 60px 0;
+  }
+
+  .Diwan-Section p {
+    width: auto !important;
+  }
+
+  .diwan-image-div {
+    margin: 0 0 30px !important;
+  }
+
+  .Diwan-Section h2 {
+    margin-top: 0 !important;
+  }
+
+  .QR-image-div {
+    display: none !important;
+  }
+
+  .Diwan-Section {
+    padding: 60px 0;
+  }
+
+  .btns {
+    justify-content: space-between !important;
+  }
+
+  button.button.btn.btn-primary {
+    height: 51px !important;
+    width: 170px !important;
+    margin: 0 !important;
+  }
+
+  .icons.d-flex.gap-3 {
+    justify-content: center;
+  }
+
+  .down-footer {
+    padding: 37px 0 27px;
+  }
+
+  .up-p {
+    padding-top: 83px !important;
+  }
+
+  .ms-auto.my-4.my-lg-0.align-items-center.navbar-nav {
+    align-items: flex-start !important;
+    padding: 20px;
+    border-radius: 15px;
+    background: linear-gradient(90deg, #f8f5f0 4.06%, rgba(248, 245, 240, 0) 100%);
+  }
+
+  .ms-auto.my-4.my-lg-0.align-items-center.navbar-nav select {
+    background: linear-gradient(90deg, #f8f5f0 4.06%, rgba(248, 245, 240, 0) 100%);
+  }
+
+  .abs-footer {
+    width: 275px;
+    margin: 61px auto 0;
+  }
+
+  .img-box {
+    width: 100% !important;
+  }
+}
+
+@media screen and (min-width: 520px) and (max-width: 869px) {
+  .Contact-Section {
+    padding: 20px 0 70px;
+  }
+
+  .Diwan-Section h2 {
+    margin: 0 !important;
+  }
+
+  .img-box {
+    width: 100% !important;
+  }
+
+  .down-footer {
+    padding: 25px 0 20px !important;
+  }
+
+  .btns {
+    justify-content: space-evenly !important;
+  }
+
+  .ku-para {
+    width: auto !important;
+  }
+
+  .Diwan-Section p {
+    width: auto !important;
+  }
+
+  .Diwan-Section {
+    padding: 70px 0;
+  }
+
+  .title-tex {
+    margin-bottom: 32px !important;
+  }
+
+  .circle-radius img {
+    margin-top: 40px !important;
+  }
+
+  .ms-auto.my-4.my-lg-0.align-items-center.navbar-nav {
+    align-items: flex-start !important;
+    padding: 20px;
+    border-radius: 15px;
+    background: linear-gradient(90deg, #f8f5f0 4.06%, rgba(248, 245, 240, 0) 100%);
+  }
+
+  .ms-auto.my-4.my-lg-0.align-items-center.navbar-nav select {
+    background: linear-gradient(90deg, #f8f5f0 4.06%, rgba(248, 245, 240, 0) 100%);
+  }
+}
+
+@media screen and (min-width: 901px) {
+  nav .active {
+    display: flex;
+    flex-direction: column;
+    gap: 11px;
+  }
+
+  nav a {
+    margin-top: 0;
+  }
+
+  nav .active {
+    margin-top: 0 !important;
+
+  }
+
+  nav .active:nth-child(-n + 2) {
+    margin-top: 15px !important;
+  }
+
+  nav a .un-line {
+    display: none;
+  }
+
+  nav .active .un-line {
+    width: 14px;
+    height: 4px;
+    margin: auto;
+    display: block !important;
+  }
+}
+
+.un-line {
+  display: none;
+}
+
+.active {
+  font-size: 16px;
+  font-weight: 600 !important;
+  color: #b0905b !important;
+}
